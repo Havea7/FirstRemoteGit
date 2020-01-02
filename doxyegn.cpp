@@ -61,4 +61,7 @@ class QTstyle_Test
       Details.
     */
     int (*handler)(int a,int b);
+
+sadfalksdjfoiashdfoiahsodifhoiasdfhi
+asdfasdfuhiaushdf
 };
