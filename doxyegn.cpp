@@ -62,6 +62,4 @@ class QTstyle_Test
     */
     int (*handler)(int a,int b);
 
-sadfalksdjfoiashdfoiahsodifhoiasdfhi
-asdfasdfuhiaushdf
 };
